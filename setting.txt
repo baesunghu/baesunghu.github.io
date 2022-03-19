@@ -1,1 +1,1 @@
-lang:tr
+lang:kr

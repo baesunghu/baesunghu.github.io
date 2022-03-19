@@ -27,6 +27,11 @@ tpkta(트프크터)(Translate Program used by Kakao Translate Api)
 ❌0.7 메뉴구성 최적화
 ❌0.8 최종 태스트
 ❌0.9 publish
+
+issue:
+1. 1번 선택 
+
+
               🔨제작자의 이메일 주소
 __________________________________________________
 |            chrisbae0204@gmail.com              |
