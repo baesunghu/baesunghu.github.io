@@ -29,7 +29,8 @@ tpkta(트프크터)(Translate Program used by Kakao Translate Api)
 ❌0.9 publish
 
 issue:
-1. 1번 선택 
+ 1. Selecting the same language in the first choice will be "keyError"
+ Solution -> Insert the same language discrimination if statement
 
 
               🔨제작자의 이메일 주소
